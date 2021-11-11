@@ -7,3 +7,6 @@ Dataset description: Anime Faces[available on kaggle : https://www.kaggle.com/so
 
 The network architecture for DCGAN described in the research paper :https://arxiv.org/pdf/1511.06434.pdf , the similar network has been built in the above code implementation to generate images.
 
+![image](https://user-images.githubusercontent.com/83843565/141283122-d2567707-3924-4f48-8a1b-d70024ddf472.png)
+
+
